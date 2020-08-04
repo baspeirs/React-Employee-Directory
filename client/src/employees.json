@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Albert",
+        "lastName": "Goldstine",
+        "title": "General Manager",
+        "id": "00001"
+    },
+    {
+        "firstName": "Susan",
+        "lastName": "Smith",
+        "title": "Assistant Manager",
+        "id": "00002"
+    },
+    {
+        "firstName": "Jackie",
+        "lastName": "Chan",
+        "title": "Sandwich Master",
+        "id": "00003"
+    },
+    {
+        "firstName": "Chuck",
+        "lastName": "Norris",
+        "title": "Meat Slicer",
+        "id": "00004"
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Black",
+        "title": "Register Dude",
+        "id": "00005"
+    },
+    {
+        "firstName": "Johnny",
+        "lastName": "Knoxville",
+        "title": "Delivery Driver",
+        "id": "00006"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Hawk",
+        "title": "Delivery Driver",
+        "id": "00007"
+    },
+    {
+        "firstName": "Captain",
+        "lastName": "America",
+        "title": "Sandwich Apprentice",
+        "id": "00008"
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "title": "Sandwich Apprentice",
+        "id": "00009"
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "title": "Sandwich Apprentice",
+        "id": "00010"
+    }
+]
